@@ -1,10 +1,3 @@
--- ***********************
--- Name: Jay Pravinkumar Chaudhari
--- ID: 147268205
--- Date: 29th of July 2022
--- Purpose: FINAL PROJECT DBS311
--- ***********************
-
 --Question 1: Write a query which lists the employee (from EMPLOYEE table) with the highest total
 --compensation (includes SALARY, BONUS and COMMISSION) by department and job type.
 SELECT
